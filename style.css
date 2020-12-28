@@ -1,0 +1,19 @@
+body{
+    background-color: #2B333B;
+}
+
+#left-panel{
+    background-color: #1A1F23;
+    box-shadow: 5px 10px 8px;
+    height: 1920px;
+    width: 25%;
+}
+
+#profile-pic{
+    border-radius: 100%;
+    box-shadow: 5px 10px 8px;
+}
+
+#name{
+    color: white;
+}
